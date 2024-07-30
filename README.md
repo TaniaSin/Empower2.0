@@ -16,7 +16,7 @@ cd Empower2.0
 3. Open the index.html file in a web browser.
    
 # usage instructions
-
+Once you click on the vercel link you will land on a slider home page which has links to full articles under text Read More and the Text. Once you click on Read More or the text you will land on the article page which has a Next Page and an arrow button to navigate to the next recipe. 
 
 # contribution guidelines
 We welcome contributions to improve this project! Here's how you can contribute:
