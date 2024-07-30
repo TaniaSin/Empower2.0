@@ -7,7 +7,6 @@ The College Kitchen is a website built to share repices which especially cater t
 # setup instructions
 1. Clone the repository:
 ```
-Bash
 git clone https://github.com/TaniaSin/Empower2.0.git
 ``` 
 2. Navigate to the project directory:
